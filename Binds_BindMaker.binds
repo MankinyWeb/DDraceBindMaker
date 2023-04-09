@@ -1,0 +1,27 @@
+8
+按 N 下一页, B上一页
+完成了？按 F 将 Bind 直接导入进游戏
+bind & |&
+新建一个Bind
+Create Bind
+"|&"
+嵌套（二层）
+Nest(2 Layer)
++left;|&
+角色向左
+Player Left
++right;|&
+角色向右
+Player Right
++jump;|&
+角色跳跃
+Player Jump
++fire;|&
+角色开火/锤
+Player Fire/Hammer
++hook;|&
+角色勾
+Player Hook
+emote &;|&
+角色发表情
+Player Emote
