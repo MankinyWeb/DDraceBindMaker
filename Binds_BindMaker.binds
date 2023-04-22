@@ -25,3 +25,12 @@ Player Hook
 emote &;|&
 角色发表情
 Player Emote
++toggle & & |&
+切换
+Toggle
+cl_dummy_hammer & |&
+分身锤
+Dummy Hammer
+cl_dummy_copymoves & |&
+分身同步
+Dummy copymoves
